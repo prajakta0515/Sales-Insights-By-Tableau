@@ -1,4 +1,4 @@
-# Sales-Insights-By-Tableau
+# Sales-Insights-Using-Tableau
 Sales Insights of Atliq Hardware
 This repository provides an in-depth analysis of the sales performance of Atliq Hardware. It leverages Tableau visualizations and SQL-based data extraction to present actionable insights for decision-making.
 Project Overview
